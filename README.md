@@ -1,6 +1,7 @@
 # UCP-cache-partitioning
 This project is the implementation of utility based cache partitioning on ChampSim which is a trace-based simulator.
-The replacement policy files are ucp.llc_repl, myucp2.llc_repl, myucp4.llc_repl which should be placed in the replacement folder of Champsim and then the following commands are used to run the simulation.
+
+The replacement policy files are ucp.llc_repl, myucp2.llc_repl, myucp4.llc_repl which should be placed in the replacement folder of Champsim and then the following commands are used to run the simulation. The run_4core.sh should be placed in the Champsim folder.
 _______UCP______
 How to run the code-
 1. build the champsim by entering the following command:
